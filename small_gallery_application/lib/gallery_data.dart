@@ -1,51 +1,51 @@
 List<GalleryItem> galleryData = [
   GalleryItem(
-    imageTitle: 'Bunter Basketball',
+    imageTitle: "Colourful basketball",
     imageDate: '03.06.2023',
     imageDescription:
-        'Ein farbenfrohes Basketballfeld im Freien. Im Zentrum steht ein Basketballkorb, dessen weißes Netz im leichten Wind schaukelt. Die Farben des Spielfelds leuchten unter der warmen Abendsonne. Vor vielen Jahren, während eines Sommerabends, trafen sich hier Freunde zu einem unvergesslichen Spiel, bei dem die Sieger den Sonnenuntergang bejubelten.',
+        "A colourful outdoor basketball court. In the centre is a basketball hoop, its white net swaying in the gentle breeze. The colours of the court glow under the warm evening sun. Many years ago, during a summer evening, friends met here for an unforgettable game in which the winners cheered the sunset.",
     imagePath: 'assets/images/basketball_1.jpg',
   ),
   GalleryItem(
-    imageTitle: 'Adrenalin pur!',
+    imageTitle: 'Pure adrenaline!',
     imageDate: '14.07.2020',
     imageDescription:
-        'Ein Skifahrer in voller Montur fliegt mutig über einen schneebedeckten Hügel, während der klare, blaue Himmel im Hintergrund strahlt. Die Sonne scheint hell, beleuchtet die funkelnden Schneeflocken und wirft lange Schatten auf die Piste. An einem perfekten Wintertag vor einigen Jahren, als der Schnee frisch und die Bedingungen ideal waren, führte dieser Sprung zu einem unvergesslichen Moment voller Adrenalin und Freude.',
+        "A skier in full kit flies boldly over a snow-covered hill, while the clear blue sky shines in the background. The sun shines brightly, illuminating the sparkling snowflakes and casting long shadows on the piste. On a perfect winter's day a few years ago, when the snow was fresh and the conditions ideal, this jump led to an unforgettable moment full of adrenaline and joy",
     imagePath: 'assets/images/ski.jpg',
   ),
   GalleryItem(
-    imageTitle: 'Achtung Kurve',
+    imageTitle: 'Watch out for bends',
     imageDate: '18.06.2022',
     imageDescription:
-        'Eine große Gruppe Rennradfahrer legt sich synchron in eine scharfe Kurve, während sie mit beeindruckender Geschwindigkeit die Strecke entlangrasen. Die bunten Trikots der Fahrer leuchten im Sonnenschein, und ihre Konzentration ist greifbar. Vor einigen Jahren, während eines spannenden Wettkampfs an einem sonnigen Frühlingstag, markierte diese Kurve den Wendepunkt des Rennens und wurde zum Schauplatz eines packenden Duells um die Spitze.',
+        "A large group of racing cyclists lean into a sharp bend in synchronisation as they race along the track at an impressive speed. The riders' colourful jerseys glow in the sunshine and their concentration is palpable. A few years ago, during an exciting competition on a sunny spring day, this bend marked the turning point of the race and became the scene of a thrilling duel for the top spot",
     imagePath: 'assets/images/bike.jpg',
   ),
   GalleryItem(
     imageTitle: 'Runners High',
     imageDate: '22.09.2023',
     imageDescription:
-        'Unsere acht Läufer bewegen sich hier in einer beeindruckenden Dreiecks-Formation über die Bahnen des sonnigen Sportplatzes am Mauerpark. Alle Athleten sind synchronisiert, ihre Schritte im perfekten Einklang, während sie die rote Tartanbahn unter ihren Füßen spüren. An einem kühlen Herbstmorgen, während eines intensiven Trainings, wurde diese Formation gewählt, um Teamarbeit und Präzision zu perfektionieren, und es war ein Moment, der die Entschlossenheit und den Zusammenhalt der Gruppe widerspiegelte.',
+        "Our eight runners move in an impressive triangular formation across the tracks of the sunny sports field at Mauerpark. All the athletes are synchronised, their steps in perfect unison as they feel the red tartan track beneath their feet. On a chilly autumn morning, during an intense training session, this formation was chosen to perfect teamwork and precision, and it was a moment that reflected the determination and cohesion of the group",
     imagePath: 'assets/images/running.jpg',
   ),
   GalleryItem(
     imageTitle: 'Swish',
     imageDate: '11.08.2018',
     imageDescription:
-        'Ein Foto, das von unten aufgenommen wurde, zeigt einen Basketballkorb mit einem strahlend blauen Himmel im Hintergrund. Die Sonne scheint hell, und das weiße Netz des Korbs hebt sich kontrastreich gegen das Blau ab. An einem klaren Sommernachmittag, vor vielen Jahren, wurde hier ein legendäres Spiel gespielt, bei dem der letzte Korb im goldenen Licht des Abends glänzte.',
+        "A photo taken from below shows a basketball hoop with a bright blue sky in the background. The sun is shining brightly and the white net of the basket stands out against the blue. On a clear summer afternoon, many years ago, a legendary game was played here, with the last basket shining in the golden light of the evening",
     imagePath: 'assets/images/basketball_2.jpg',
   ),
   GalleryItem(
     imageTitle: 'Ball Game',
     imageDate: '29.11.2023',
     imageDescription:
-        'Die Nahaufnahme zeigt einen gelb-grünen Tennisball, der auf dem glänzenden Boden der Sporthalle liegt. Die Textur des Balls ist deutlich sichtbar, während das gedämpfte Licht der Halle eine ruhige Atmosphäre schafft. An einem regnerischen Nachmittag fand hier ein spannendes Match statt, bei dem dieser Ball im entscheidenden Moment des Spiels eine wichtige Rolle spielte.',
+        "The close-up shows a yellow-green tennis ball lying on the shiny floor of the sports hall. The texture of the ball is clearly visible, while the subdued light of the hall creates a calm atmosphere. On a rainy afternoon, an exciting match took place here, in which this ball played an important role at the decisive moment of the game",
     imagePath: 'assets/images/tennis_1.jpg',
   ),
   GalleryItem(
-    imageTitle: 'Sieg in der Natur',
+    imageTitle: 'Victory in nature',
     imageDate: '02.05.2022',
     imageDescription:
-        'Eine beeindruckende Drohnenaufnahme zeigt ein Tennisfeld, das idyllisch mitten im Grünen liegt. Das leuchtend grüne Spielfeld kontrastiert wunderschön mit den umgebenden Bäumen und Wiesen. An einem sonnigen Sommertag vor einigen Jahren wurde hier ein Turnier ausgetragen, bei dem Spieler und Zuschauer gleichermaßen die atemberaubende Naturkulisse genossen.',
+        "An impressive drone shot shows a tennis court in an idyllic location surrounded by greenery. The bright green court contrasts beautifully with the surrounding trees and meadows. On a sunny summer's day a few years ago, a tournament was held here, with players and spectators alike enjoying the breathtaking natural scenery",
     imagePath: 'assets/images/tennis_2.jpg',
   ),
 ];

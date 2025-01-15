@@ -17,3 +17,13 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/images/basketball_1.jpeg
+    - assets/images/basketball_2.jpeg
+    - assets/images/bike.jpeg
+    - assets/images/kaya.jpeg
+    - assets/images/running.jpeg
+    - assets/images/ski.jpeg
+    - assets/images/soccer.jpeg
+    - assets/images/tennis_1.jpeg
+    - assets/images/tennis_2.jpeg
