@@ -235,6 +235,7 @@ class DetailPage extends StatelessWidget {
               Text(
                 description, // Die individuelle Beschreibung wird hier angezeigt
                 style: const TextStyle(fontSize: 16),
+                textAlign: TextAlign.justify,
               ),
             ],
           ),
